@@ -1,6 +1,6 @@
 # demo-snowpack-gh-pages [github pages](https://markfirmware.github.io/demo-snowpack-gh-pages/)
 
-This repo was created by running the included all-the-templates.sh
+This repo was created by running the included [all-the-templates.sh](all-the-templates.sh)
 
 - created empty repo demo-snowpack-gh-pages using the github web site
 - cloned snowpack - cd snowpack - yarn - yarn build
