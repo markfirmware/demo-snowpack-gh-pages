@@ -1,1 +1,1 @@
-export default "/_dist_/logo.png";
+export default "/demo-snowpack-gh-pages/preact/_dist_/logo.png";
